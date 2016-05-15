@@ -1,0 +1,15 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "pass a url as a parameter and recieve a shortened one in JSON response",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Concepsheon Hall",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "migre-me-url": "0.0.2",
+    "morgan": "^1.7.0"
+}
