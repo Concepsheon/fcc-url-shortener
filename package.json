@@ -4,6 +4,7 @@
   "description": "pass a url as a parameter and recieve a shortened one in JSON response",
   "main": "app.js",
   "scripts": {
+    "start":"node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Concepsheon Hall",
